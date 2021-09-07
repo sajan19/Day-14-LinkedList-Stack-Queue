@@ -50,9 +50,9 @@ public class LinkedList {
         LinkedList list = new LinkedList();
         System.out.println("Simple LinkedList: ");
         //Added Elements to LinkedList
-        list.add(70);
-        list.add(30);
         list.add(56);
+        list.add(30);
+        list.add(70);
         System.out.println(list);
     }
 }
